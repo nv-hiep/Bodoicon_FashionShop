@@ -1,0 +1,45 @@
+<?php defined('COREPATH') or exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-19 15:39:57 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:41:55 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:42:14 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:42:16 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:42:46 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:44:38 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:44:54 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:44:56 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:47:52 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:47:54 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:47:55 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:47:55 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:47:55 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:08 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:09 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:21 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:22 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:48 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:48:49 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:56:13 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 15:59:14 --> Warning - mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/aot946bc/public_html/fuel/core/classes/database/mysqli/connection.php on line 129
+ERROR - 2015-10-19 16:00:44 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:00:50 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:07 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:09 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:11 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:12 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:13 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:13 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:02:15 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:15:09 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:15:54 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:17:49 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:17:51 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:18:46 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:18:48 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:18:49 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:26:39 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 16:27:22 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 22:16:52 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 22:17:02 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 23:41:42 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
+ERROR - 2015-10-19 23:41:44 --> Fatal Error - Class 'PDO' not found in /home/aot946bc/public_html/fuel/core/classes/database/pdo/connection.php on line 72
